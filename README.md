@@ -2,6 +2,9 @@
 
 I am Programmer of the Roblox and Website
 
+### New Updates
+- Yellow Skunk's API for Contacts: This Yellow Skunk Contact has been included for the new API.
+
 ### Pages
 - [Photos - Yellow Skunk](https://yellowskunk.netlify.app/photos)
 - [Chat - Yellow Skunk](https://chat--yellowskunk.netlify.app/)
